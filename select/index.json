@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "I gotta go",
+  "base_artist": "GeG",
+  "createdAt": "2026-02-12T04:49:22.703605Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If I Gotta Go",
+      "artist": "A Boogie wit da Hoodie",
+      "has_synced": true,
+      "path": "select/01_If_I_Gotta_Go_A_Boogie_wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Gotta Go Now",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/02_I_Gotta_Go_Now_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Gotta Go",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/03_I_Gotta_Go_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Gotta Go Home",
+      "artist": "Will Smith",
+      "has_synced": false,
+      "path": "select/04_I_Gotta_Go_Home_Will_Smith.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Gotta Go",
+      "artist": "Sunrise Avenue",
+      "has_synced": true,
+      "path": "select/05_I_Gotta_Go_Sunrise_Avenue.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If I Gotta Go",
+      "artist": "A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/06_If_I_Gotta_Go_A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Gotta Go - Live From The Big Band Theory Tour / 2013",
+      "artist": "Sunrise Avenue",
+      "has_synced": true,
+      "path": "select/07_I_Gotta_Go_-_Live_From_The_Big_Band_Theory_Tour___2013_Sunrise_Avenue.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Gotta Go",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/08_I_Gotta_Go_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Gotta Go",
+      "artist": "Alan Doyle",
+      "has_synced": false,
+      "path": "select/09_I_Gotta_Go_Alan_Doyle.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Gotta Go",
+      "artist": "milet",
+      "has_synced": true,
+      "path": "select/10_I_Gotta_Go_milet.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Gotta Go",
+      "artist": "Sexy Sadie",
+      "has_synced": false,
+      "path": "select/11_I_Gotta_Go_Sexy_Sadie.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Gotta Go (Live From The Big Band Theory Tour 2013)",
+      "artist": "Sunrise Avenue",
+      "has_synced": true,
+      "path": "select/12_I_Gotta_Go_(Live_From_The_Big_Band_Theory_Tour_2013)_Sunrise_Avenue.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Gotta Go",
+      "artist": "Rolling Stones (the)",
+      "has_synced": true,
+      "path": "select/13_I_Gotta_Go_Rolling_Stones_(the).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Charlie I Gotta Go",
+      "artist": "Black Star Riders",
+      "has_synced": true,
+      "path": "select/14_Charlie_I_Gotta_Go_Black_Star_Riders.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Gotta Go",
+      "artist": "Robert Earl Keen",
+      "has_synced": true,
+      "path": "select/15_I_Gotta_Go_Robert_Earl_Keen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I gotta go",
+      "artist": "GeG, Hiplin, WILYWNKA, kojikoji",
+      "has_synced": false,
+      "path": "select/pl_01_I_gotta_go_GeG,_Hiplin,_WILYWNKA,_kojikoji.txt"
+    }
+  ]
+}
